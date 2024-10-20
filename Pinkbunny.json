@@ -260,9 +260,9 @@
   "NotoSans-Semibold": "https://github.com/Moodzz1/Meloso/blob/main/Meloso-Medium.ttf?raw=1",
   "SourceCodePro-Semibold": "https://github.com/Moodzz1/Meloso/blob/main/Meloso-Medium.ttf?raw=1"
     },
-    "background": {
-        "url": "https://pbs.twimg.com/media/GV0NIvwWQAAhLLj?format=jpg&name=4096x4096"
-    },
+    //"background": {
+    //    "url": "https://pbs.twimg.com/media/GV0NIvwWQAAhLLj?format=jpg&name=4096x4096"
+    //},
    "plus":{
        "version":"0",
        "customOverlays": true,
